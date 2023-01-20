@@ -1,0 +1,17 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.find.autoFindInSelection": "never",
+  "prettier.bracketSameLine": true,
+  "prettier.endOfLine": "lf",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.format.enable": true,
+  "prettier.documentSelectors": [
+    "**/*.{ts,js}"
+  ],
+  "editor.formatOnType": false
+}
